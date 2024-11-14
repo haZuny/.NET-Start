@@ -1,0 +1,10 @@
+C:\Users\gkwns\hajunFolder\.NET-Start\WindowsFormsStart1\WindowsFormsStart1\bin\Debug\WindowsFormsStart1.exe.config
+C:\Users\gkwns\hajunFolder\.NET-Start\WindowsFormsStart1\WindowsFormsStart1\bin\Debug\WindowsFormsStart1.exe
+C:\Users\gkwns\hajunFolder\.NET-Start\WindowsFormsStart1\WindowsFormsStart1\bin\Debug\WindowsFormsStart1.pdb
+C:\Users\gkwns\hajunFolder\.NET-Start\WindowsFormsStart1\WindowsFormsStart1\obj\Debug\WindowsFormsStart1.csproj.AssemblyReference.cache
+C:\Users\gkwns\hajunFolder\.NET-Start\WindowsFormsStart1\WindowsFormsStart1\obj\Debug\WindowsFormsStart1.Properties.Resources.resources
+C:\Users\gkwns\hajunFolder\.NET-Start\WindowsFormsStart1\WindowsFormsStart1\obj\Debug\WindowsFormsStart1.csproj.GenerateResource.cache
+C:\Users\gkwns\hajunFolder\.NET-Start\WindowsFormsStart1\WindowsFormsStart1\obj\Debug\WindowsFormsStart1.csproj.CoreCompileInputs.cache
+C:\Users\gkwns\hajunFolder\.NET-Start\WindowsFormsStart1\WindowsFormsStart1\obj\Debug\WindowsFormsStart1.exe
+C:\Users\gkwns\hajunFolder\.NET-Start\WindowsFormsStart1\WindowsFormsStart1\obj\Debug\WindowsFormsStart1.pdb
+C:\Users\gkwns\hajunFolder\.NET-Start\WindowsFormsStart1\WindowsFormsStart1\obj\Debug\WindowsFormsStart1.Back.resources
