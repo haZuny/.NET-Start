@@ -19,12 +19,31 @@ namespace WindowsFormsStart1
 
         private void label1_Click(object sender, EventArgs e)
         {
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = textBox1.Text;
-            MessageBox.Show("버튼을 클릭했습니다");
+            if (checkBox1.Checked)
+            {
+                label1.Text = checkBox1.Text;
+            }
+            else if (checkBox2.Checked)
+            {
+                label1.Text = checkBox2.Text;
+            }
+            else if (checkBox3.Checked)
+            {
+                label1.Text = checkBox3.Text;
+
+            }
+            else
+            {
+                label1.Text = "바보";
+
+            }
+
         }
+
     }
 }
